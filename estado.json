@@ -1,0 +1,45 @@
+{
+ "2026-11-11_email": {
+  "status": "publicado",
+  "obs": "Enviado para a lista de teste",
+  "em": "2026-11-13T19:59:17-03:00"
+ },
+ "2026-11-11_instagram": {
+  "status": "publicado",
+  "obs": "Carrossel no ar",
+  "em": "2026-11-13T20:04:36-03:00",
+  "links": [
+   {
+    "rotulo": "Ver publicado",
+    "url": "https://www.instagram.com/setecincolab/p/Dfswy_VoMUJ/"
+   }
+  ]
+ },
+ "2026-11-11_linkedin": {
+  "status": "publicado",
+  "obs": "Página e perfil",
+  "em": "2026-11-13T19:59:09-03:00",
+  "links": [
+   {
+    "rotulo": "Ver publicado",
+    "url": "https://www.linkedin.com/feed/update/urn:li:activity:7527142552081408000/"
+   }
+  ]
+ },
+ "2026-11-11_reels": {
+  "status": "publicado",
+  "obs": "Reels no ar",
+  "em": "2026-11-13T20:04:41-03:00",
+  "links": [
+   {
+    "rotulo": "Ver publicado",
+    "url": "https://www.instagram.com/setecincolab/reel/DfsxD0vsJK4/"
+   }
+  ]
+ },
+ "2026-11-11_stories": {
+  "status": "no_celular",
+  "obs": "No seu e-mail para postar pelo app",
+  "em": "2026-11-13T20:04:47-03:00"
+ }
+}
