@@ -1,0 +1,73 @@
+{
+ "data": "2026-11-20",
+ "tema": "Pauta 75 semanal #05: a semana em três posts (NGV, Lacta e Bis, Seara), varejo quase parado (IBEVAR-FIA) e a banca das 24 geleias",
+ "pilar": "semanal",
+ "ideia": "Primeira edição semanal: compila os posts publicados de 16 a 20/11, abre com o Raio-X do PDV 2027 e o Kit Páscoa 2027.",
+ "fontes": [
+  {
+   "nome": "IBEVAR-FIA Business School, Projeção de Vendas de novembro de 2026 (Times Brasil, 08/11/2026)",
+   "url": "https://timesbrasil.com.br/empresas-e-negocios/servicos-e-varejo/varejo-fecha-2026-quase-sem-crescimento-projecao-ibevar-fia/"
+  },
+  {
+   "nome": "Iyengar, S. S. e Lepper, M. R. (2000). When choice is demotivating. Journal of Personality and Social Psychology, 79(6), 995-1006",
+   "url": "https://doi.org/10.1037/0022-3514.79.6.995"
+  },
+  {
+   "nome": "Cases 75 LAB",
+   "url": "https://75lab.com.br/cases.html"
+  },
+  {
+   "nome": "Displays NGV",
+   "url": "https://projetos.75lab.com.br/produtos/ngv-displays/"
+  },
+  {
+   "nome": "Post publicado da semana (Instagram 16/11)",
+   "url": "https://www.instagram.com/setecincolab/p/DfzcrFPoDUf/"
+  },
+  {
+   "nome": "Post publicado da semana (LinkedIn 16/11)",
+   "url": "https://www.linkedin.com/feed/update/urn:li:share:7528083167803731971/"
+  },
+  {
+   "nome": "Post publicado da semana (Instagram 17/11)",
+   "url": "https://www.instagram.com/setecincolab/p/Df2FdeokZ_I/"
+  },
+  {
+   "nome": "Post publicado da semana (LinkedIn 17/11)",
+   "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7528454858211815424/"
+  },
+  {
+   "nome": "Post publicado da semana (Instagram 19/11)",
+   "url": "https://www.instagram.com/setecincolab/p/Df7OtKhoKLX/"
+  },
+  {
+   "nome": "Post publicado da semana (LinkedIn 19/11)",
+   "url": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7529179148037300226/"
+  }
+ ],
+ "pecas": [
+  {
+   "id": "2026-11-20_email",
+   "canal": "email",
+   "midias": [
+    {
+     "arq": "75lab-pauta-75-semanal-05_email-previa_600xauto.png",
+     "video": false,
+     "rotulo": "Como chega na caixa"
+    }
+   ],
+   "textos": [
+    [
+     "Assunto",
+     "A semana em três posts: ano apertado, opção demais e o briefing que evita retrabalho"
+    ],
+    [
+     "Linha de apoio",
+     "Primeira edição semanal da Pauta 75: notícia, os cases da semana, um insight e a banca das 24 geleias. E o Raio-X do PDV 2027."
+    ]
+   ],
+   "publicar_em": "10:30",
+   "email_html": "email.html"
+  }
+ ]
+}
